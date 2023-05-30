@@ -33,22 +33,10 @@ link : https://nodejs.org/en/download/
 {
   "users": [
     {
-      "firstName": "tamanna",
-      "lastName": "tuly",
+      "firstName": "Imrul",
+      "lastName": "Hassan",
       "subjectId": "1",
 	  "id": "1"
-    },
-	{
-      "firstName": "ria",
-      "lastName": "khan",
-      "subjectId": "2",
-	  "id": "2"
-    },
-	{
-      "firstName": "morium",
-      "lastName": "meher",
-      "subjectId": "1",
-	  "id": "3"
     }
   ],
   "subjects": [
